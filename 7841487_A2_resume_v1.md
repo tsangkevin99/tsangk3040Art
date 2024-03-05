@@ -1,7 +1,3 @@
----
-permalink: /7841487_A2_resume_v1/
----
-
 # Kevin Tsang
 
 3 Park Valley Road, Winnipeg, MB, R3Y 0H3  
