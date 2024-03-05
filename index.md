@@ -11,7 +11,7 @@ Software Developer seeking challenges and opportunities to further develop their
 
 ## Education
 
-**B. Sc. In Computer Science | University of Manitoba**  
+B. Sc. In Computer Science | University of Manitoba
 Sept. 2019 – Present  
 Expected Graduation | April 2025  
 4th Year Computer Science Student
@@ -30,7 +30,7 @@ Expected Graduation | April 2025
 
 ### NHL 2001-2008 Database
 
-**Student Team Lead / COMP 3380 Databases Concepts and Usage | Sept. 2023 – Dec. 2023**
+Student Team Lead / COMP 3380 Databases Concepts and Usage | Sept. 2023 – Dec. 2023
 
 - Demonstrated and led effective teamwork through balanced task distribution and constant communication
 - Coordinated with peers to develop a relational database with a user-friendly GUI using Java and SQL
@@ -40,7 +40,7 @@ Expected Graduation | April 2025
 
 ### Prairie Badminton | Winnipeg, MB
 
-**Assistant Coach | July 2023 – Present**
+Assistant Coach | July 2023 – Present
 
 - Displayed and led technique drills to enhance players' skills in grip, strokes, and court footwork
 - Fostered communication among players, parents, and fellow coaches through feedback sessions and tournaments
@@ -48,7 +48,7 @@ Expected Graduation | April 2025
 
 ### Manitoba Badminton Association | Winnipeg, MB
 
-**Assistant Coach | July 2022 – Aug. 2023**
+Assistant Coach | July 2022 – Aug. 2023
 
 - Designed age-specific training programs emphasizing technique, strategy, fitness, and mental preparation
 - Tailored coaching approaches to accommodate diverse age groups and skill levels for provincial-level athletes
