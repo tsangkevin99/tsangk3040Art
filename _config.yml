@@ -1,0 +1,29 @@
+# Site settings
+title: "Kevin Tsang"
+email: kevintsang80@gmail.com
+description: "Software Developer seeking challenges and opportunities to further develop skills."
+baseurl: "/7841487_A2_resume_v1" # the subpath of your site, e.g. /7841487_A2_resume_v1
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: "" # replace with your Twitter username if applicable
+github_username: "kevintsang99" # replace with your GitHub username if applicable
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Permalinks
+permalink: /7841487_A2_resume_v1/
