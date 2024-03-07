@@ -9,13 +9,14 @@ This is a step-by-step guide on how to put your resume on GitHub Pages. You'll u
 - A [GitHub](https://github.com/) Account
    - You will use GitHub Pages to host your formatted resume
 - Basic knowledge on Jekyll/YAML
-   - If Jekyll/YAML is new to you, check out this [Tutorial](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial.html) for a quick introduction.
+   - If you are unfamiliar with Jekyll/YAML, check out this [Tutorial](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial.html) for a quick introduction.
 
 ## Instructions
 Follow these straightforward steps to host your resume on GitHub Pages:
 
 1. **Go to your GitHub Home Page:**
    - If you don't have one, sign up for a [GitHub account](https://github.com/).
+- *This step aligns with Etter's emphasis on using collaborative platforms for documentation*
 
 2. **Create a New Repository:**  
 
@@ -24,7 +25,8 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Click on the green "New" button at the top left.
    - Pick a repository name, perhaps something like `yourusername.github.io` where "yourusername" is your GitHub username.
    - Initialize the repository with a README file. (Optional)
-   - Click on `Create Repository` at the bottom of the page.
+   - Click on `Create Repository` at the bottom of the page.  
+- *This reflects Etter's focus on organized and structured documentation*
 
 3. **Upload Your Markdown Resume:**  
 
@@ -32,6 +34,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Click on the 'Add file' drop down and select `Upload files`.
    - Upload your markdown resume and save the file as `index.md` in the repository.
    - At the bottom, click on the green `Commit changes` button to make the change.
+- *This step emphasises on valuable content and starting a documentation project with essential information*
 
 4. **Enable GitHub Pages:**  
 
@@ -40,6 +43,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Next, navigate to the left hand side and click on the `Pages` section.
    - Under Build and deployment scroll down to Branch and choose the `main` branch.
    - Afterwards you can navigate back to your repository page by clicking on your repository name on the top left e.g. `yourusername.github.io`
+- *This step relates to Etter's concept of making documentation accessible*
 
 5. **Jekyll Template:**
    - Next we are going to create a file to utilize Jekyll.
@@ -49,6 +53,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Configure the file, select a theme and add any site details you want.
       - [Here](https://jekyllrb.com/docs/themes/) are some themes to look at 
    - Click on the `Commit changes` button at the top right corner when finished.
+- *This step relates to Etter's concept on using templates for consistency and simplicity in documentation*
 
 6. **README File: (OPTIONAL)**
    - Next, if you initialized the README file when creating your repository
@@ -62,6 +67,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - If you have done everything correctly, it should look similar to this!
    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpmNzVoN3NiYWU4czFzOWthdWRqemR2bGE3Yzk1eHoxZTc2NDB4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uUQzZL22ZceOl8xmWO/giphy.gif)  
    *Congratulations! You successfully hosted your own resume on GitHub Pages using Markdown and Jekyll.*
+- *This step relates to Etter's principle of making documentation easily available to users*
 
 ## More Resources
 - [Markdown Guide](https://www.markdownguide.org/)
