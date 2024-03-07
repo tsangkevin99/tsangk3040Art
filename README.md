@@ -5,7 +5,7 @@ This is a step-by-step guide on how to put your resume on GitHub Pages. You'll u
 ## Prerequisites
 - Have your resume ready, formatted in Markdown.
    - If Markdown is new to you, check out this [Markdown Tutorial](https://www.markdowntutorial.com/) for a quick introduction.
-- [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) Installed
+   - You can use [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) to format your resume in Markdown.
    - This is where you will craft and edit your resume using Markdown.
 - A [GitHub](https://github.com/) Account
    - You will use GitHub Pages to host your formatted resume
