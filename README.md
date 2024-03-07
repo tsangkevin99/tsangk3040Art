@@ -1,7 +1,7 @@
 # Hosting Your Resume on GitHub Pages: The Algorithm
 
 ## Purpose
-This is a step-by-step guide on how to put your resume on GitHub Pages. You'll use Markdown and Jekyll in Visual Studio Code to style and format your resume, then you will create a repository and host it on GitHub Pages.
+This is a step-by-step guide on how to put your resume on GitHub Pages. You'll use Markdown and Jekyll to style and format your resume, then you will create a repository and host it on GitHub Pages.
 ## Prerequisites
 - Have your resume ready, formatted in Markdown.
    - If Markdown is new to you, check out this [Markdown Tutorial](https://www.markdowntutorial.com/) for a quick introduction.
