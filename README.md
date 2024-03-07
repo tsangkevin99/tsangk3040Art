@@ -20,49 +20,76 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 2. **Create a New Repository:**  
 
    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh2YnkwNGpuYnNwd2tsdmh2Y3Q0NTA3cXo5N3h5YjZwN2M2d2NidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHH3AyhO6ssjA0j73Z/giphy.gif)
-   - Go to the main page on GitHub
-   - Click the green "New" button at the top left
+   - Go to the main page on GitHub.
+   - Click on the green "New" button at the top left.
    - Pick a repository name, perhaps something like `yourusername.github.io` where "yourusername" is your GitHub username.
    - Initialize the repository with a README file. (Optional)
+   - Click on `Create Repository` at the bottom of the page.
 
 3. **Upload Your Markdown Resume:**  
 
    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvMW04bXJ3aWM3YW1idTUxYTE1Zm1wdGg0d2tnaWcyd3lxdGZhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvpEyHOMkRZFAhw68T/giphy.gif)
    - Click on the 'Add file' drop down and select `Upload files`.
-   - Upload and save your resume as `index.md` in the repository.
-   - At the bottom, click on the green `Commit changes` button to make the change to your repository.
+   - Upload your markdown resume and save the file as `index.md` in the repository.
+   - At the bottom, click on the green `Commit changes` button to make the change.
 
 4. **Enable GitHub Pages:**  
 
    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk1bWRydDd3bjlvZWVtdWRhZHZqMG92NGs3cjVpbndyNWFxNjA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Onu1DW9aYpcvvUlW55/giphy.gif)
    - In your repository, go to `Settings` located at the top of the page in the center.
-   - Navigate to the left hand side, click on the `Pages` section, choose the `main` branch, and save.
+   - Next, navigate to the left hand side and click on the `Pages` section.
+   - Under Build and deployment scroll down to Branch and choose the `main` branch.
+   - Afterwards you can navigate back to your repository page by clicking on your repository name on the top left e.g. `yourusername.github.io`
 
 5. **Jekyll Template:**
-
-   - Navigate to the `Add file` in your repository.
-   - Click on `Create new file` and name the file `_config.yml`.
+   - Next we are going to create a file to utilize Jekyll.
+   - Navigate to the `Add file` button in your repository.
+   - Click on `Create new file` 
+   - At the top left there is a bar that says `Name your file...`, name the file `_config.yml`.
    - Configure the file, select a theme and add any site details you want.
+      - [Here](https://jekyllrb.com/docs/themes/) are some themes to look at 
    - Click on the `Commit changes` button at the top right corner when finished.
 
+6. **README File: (OPTIONAL)**
+   - Next, if you initialized the README file when creating your repository
+   - Format the `README.md` file in markdown and provide a summary about yourself and your resume
+   - To do this, navigate to your repository page, there should be a README underneath your files such as `README.md`, `_config.yml` and `index.md`.
+   - Click on the pencil icon at the top right to edit your `README.md` file
+   - Once you are done making changes, click on the top right `Commit changes` button that is green
 
-5. **Access Your Hosted Resume:**
+7. **Open Your Hosted Resume:**
    - After a short wait, your resume will be accessible at `https://yourusername.github.io`.
-   - If you have done everything correctly, it should look similar to this.
+   - If you have done everything correctly, it should look similar to this!
+   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpmNzVoN3NiYWU4czFzOWthdWRqemR2bGE3Yzk1eHoxZTc2NDB4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uUQzZL22ZceOl8xmWO/giphy.gif)  
+   *Congratulations! You successfully hosted your own resume on GitHub Pages using Markdown and Jekyll.*
 
 ## More Resources
-- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Andrew Etter's Modern Technical Writing](link-to-the-book)
+- [Visual Studio Guide](https://code.visualstudio.com/docs/introvideos/basics)
+- [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
-This README template is crafted with beginners in mind, individuals with minimal experience in GitHub and git. 
+[Kevin Tsang](https://github.com/tsangkevin99): Author of Resume and README file  
+[Heejeong Kim](https://github.com/Heejoy): Peer editor and Group 7 member
 
 ## FAQs
 
-**Q: Why use Markdown for my resume?**
-A: Markdown is a lightweight and easily readable format. It simplifies the formatting process, making it accessible for those new to technical writing.
+**Q: Why is Markdown better than a word processor?**  
+- Markdown gives a simple and readable way to format text without the complexities of using a word processor. It allows for easy version control since text files are easier to manage using tools like Git. Additionally, Markdown is not platform dependent meaning it is suitable for collaborative projects where contributors may use different operating systems.
 
-**Q: Why host my resume on GitHub Pages?**
-A: GitHub Pages provides free hosting for static websites, making your resume accessible online. It's beginner-friendly and aligns with modern technical documentation practices.
+**Q: Why is my resume not showing up?**  
+- If your resume is not showing up on GitHub Pages try:
+   - Checking that your repository is set to public visibility Settings > Options > GitHub Pages > make sure the source branch is correctly configured.  
+   - Verifying that your Markdown and Jekyll files are correctly named as `index.md` and `_config.yml`
+   - Waiting at least a few minutes for changes to reflect
+- If the issue persists, check for typos or formatting errors in your Markdown file that could be causing an issue
+
+**Q: Why host my resume on GitHub Pages?**  
+- Hosting your resume on GitHub Pages offer several advantages such as:
+   - Free hosting for static websites making it available to anyone without spending money
+   - Easy version control using Git
+   - Easy integretion using Jekyll, a static site generator
+   - Showcases proficiency in using modern technical documentation tools
+   - Resume accessible to potential employers or collaborators
 
