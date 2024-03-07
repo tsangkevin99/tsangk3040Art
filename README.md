@@ -77,7 +77,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 
 ## Authors and Acknowledgements
 [Kevin Tsang](https://github.com/tsangkevin99): Author of Resume and README file  
-[Heejeong Kim](https://github.com/Heejoy): Peer editor and Group 7 member
+[Heejeong Kim](https://github.com/Heejoy): Peer editor and Group 7 member  
 [Jonathan Placatka](https://github.com/jonathanplacatka): Peer editor and Group 7 member
 
 ## FAQs
