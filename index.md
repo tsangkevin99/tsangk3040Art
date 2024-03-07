@@ -30,7 +30,7 @@ Expected Graduation | April 2025
 
 ### NHL 2001-2008 Database
 
-**COMP 3380 Databases Concepts and Usage Sept. 2023 – Dec. 2023**
+COMP 3380 Databases Concepts and Usage Sept. 2023 – Dec. 2023
 
 - Demonstrated and led effective teamwork through balanced task distribution and constant communication
 - Coordinated with peers to develop a relational database with a user-friendly GUI using Java and SQL
