@@ -1,29 +1,39 @@
-# Hosting Your Resume on GitHub Pages: A Simple Guide
+# Hosting Your Resume on GitHub Pages: The Algorithm
 
 ## Purpose
-This step-by-step guide is designed for individuals with minimal experience in GitHub and git. It will assist you in effortlessly hosting your resume on GitHub Pages, incorporating principles from Andrew Etter's Modern Technical Writing.
-
+This is a step-by-step guide on how to put your resume on GitHub Pages. You'll use Markdown and Jekyll in Visual Studio Code to style and format your resume, then you will create a repository and host it on GitHub Pages.
 ## Prerequisites
 - Have your resume ready, formatted in Markdown.
-- If Markdown is new to you, check out this [Markdown Tutorial](https://www.markdowntutorial.com/) for a quick introduction.
+   - If Markdown is new to you, check out this [Markdown Tutorial](https://www.markdowntutorial.com/) for a quick introduction.
+- [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) Installed
+   - This is where you will craft and edit your resume using Markdown and [Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial.html)
+- A [GitHub](https://github.com/) Account
+   - You will use GitHub Pages to host your formatted resume
 
 ## Instructions
 Follow these straightforward steps to host your resume on GitHub Pages:
 
-1. **Create a GitHub Account:**
-   If you don't have one, sign up for a [GitHub account](https://github.com/).
+1. **Go to your GitHub Home Page:**
+   - If you don't have one, sign up for a [GitHub account](https://github.com/).
 
-2. **Create a New Repository:**
-   - Pick a repository name, perhaps something like `yourusername.github.io`.
-   - Initialize the repository with a README file.
+2. **Create a New Repository:**  
 
-3. **Upload Your Resume:**
-   - Save your resume as `index.md` in the repository.
-   - Ensure it adheres to Markdown syntax.
+   ![](https://media.giphy.com/media/Y8mMeW7aZIScqEa3q4/giphy.gif)
+   - Go to the main page on GitHub
+   - Click the green "New" button at the top left
+   - Pick a repository name, perhaps something like `yourusername.github.io` where "yourusername" is your GitHub username.
+   - Initialize the repository with a README file. (Optional)
+
+3. **Upload Your Markdown Resume:**  
+
+   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvMW04bXJ3aWM3YW1idTUxYTE1Zm1wdGg0d2tnaWcyd3lxdGZhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvpEyHOMkRZFAhw68T/giphy.gif)
+   - Click on the 'Add file' drop down and select `Upload files`.
+   - Upload and save your resume as `index.md` in the repository.
+   - At the bottom, click on the green `Commit changes` button to make the change to your repository.
 
 4. **Enable GitHub Pages:**
-   - In your repository, go to `Settings`.
-   - Scroll down to the `Pages` section, choose the `main` branch, and save.
+   - In your repository, go to `Settings` located at the top of the page in the center.
+   - Navigate to the left hand side, click on the `Pages` section, choose the `main` branch, and save.
 
 5. **Access Your Hosted Resume:**
    - After a short wait, your resume will be accessible at `https://yourusername.github.io`.
