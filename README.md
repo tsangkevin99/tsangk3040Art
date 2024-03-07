@@ -58,7 +58,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Once you are done making changes, click on the top right `Commit changes` button that is green
 
 7. **Open Your Hosted Resume:**
-   - After a short wait, your resume will be accessible at `https://yourusername.github.io`.
+   - After a few minutes, your resume will be accessible at `https://yourusername.github.io`.
    - If you have done everything correctly, it should look similar to this!
    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpmNzVoN3NiYWU4czFzOWthdWRqemR2bGE3Yzk1eHoxZTc2NDB4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uUQzZL22ZceOl8xmWO/giphy.gif)  
    *Congratulations! You successfully hosted your own resume on GitHub Pages using Markdown and Jekyll.*
