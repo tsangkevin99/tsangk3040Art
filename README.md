@@ -34,7 +34,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Click on the 'Add file' drop down and select `Upload files`.
    - Upload your markdown resume and save the file as `index.md` in the repository.
    - At the bottom, click on the green `Commit changes` button to make the change.
-- *This step emphasises on valuable content and starting a documentation project with essential information*
+- *This step emphasises valuable content and starting documentation with essential information*
 
 4. **Enable GitHub Pages:**  
 
