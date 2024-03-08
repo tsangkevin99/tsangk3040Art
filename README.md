@@ -26,7 +26,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Pick a repository name, perhaps something like `yourusername.github.io` where "yourusername" is your GitHub username.
    - Initialize the repository with a README file. (Optional)
    - Click on `Create Repository` at the bottom of the page.  
-- *This reflects Etter's focus on organized and structured documentation*
+- *This reflects Etter's focus on organized and structured documentation as well as using Distributed Version Control*
 
 3. **Upload Your Markdown Resume:**  
 
@@ -34,7 +34,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Click on the 'Add file' drop down and select `Upload files`.
    - Upload your markdown resume and save the file as `index.md` in the repository.
    - At the bottom, click on the green `Commit changes` button to make the change.
-- *This step emphasises valuable content and starting documentation with essential information*
+- *This step emphasises valuable content and starting documentation with essential information. In addition, using Markdown is one of Etter's key concepts as they believe it has the cleanest syntax*
 
 4. **Enable GitHub Pages:**  
 
@@ -53,7 +53,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Configure the file, select a theme and add any site details you want.
       - [Here](https://jekyllrb.com/docs/themes/) are some themes to look at 
    - Click on the `Commit changes` button at the top right corner when finished.
-- *This step relates to Etter's concept on using templates for consistency and simplicity in documentation*
+- *This step relates to Etter's concept on using templates for consistency and simplicity in documentation. In addition, Etter emphasises on making static websites for their speed and simplicity*
 
 6. **README File: (OPTIONAL)**
    - Next, if you initialized the README file when creating your repository
