@@ -20,7 +20,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 
 2. **Create a New Repository:**  
 
-   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh2YnkwNGpuYnNwd2tsdmh2Y3Q0NTA3cXo5N3h5YjZwN2M2d2NidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHH3AyhO6ssjA0j73Z/giphy.gif)
+   ![](https://github.com/tsangkevin99/tsangkevin99.github.io/blob/main/Gifs/newrepo.gif?raw=true)
    - Go to the main page on GitHub.
    - Click on the green "New" button at the top left.
    - Pick a repository name, perhaps something like `yourusername.github.io` where "yourusername" is your GitHub username.
@@ -30,7 +30,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 
 3. **Upload Your Markdown Resume:**  
 
-   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvMW04bXJ3aWM3YW1idTUxYTE1Zm1wdGg0d2tnaWcyd3lxdGZhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RvpEyHOMkRZFAhw68T/giphy.gif)
+   ![](https://github.com/tsangkevin99/tsangkevin99.github.io/blob/main/Gifs/upload.gif?raw=true)
    - Click on the 'Add file' drop down and select `Upload files`.
    - Upload your markdown resume and save the file as `index.md` in the repository.
    - At the bottom, click on the green `Commit changes` button to make the change.
@@ -38,7 +38,7 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 
 4. **Enable GitHub Pages:**  
 
-   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk1bWRydDd3bjlvZWVtdWRhZHZqMG92NGs3cjVpbndyNWFxNjA0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Onu1DW9aYpcvvUlW55/giphy.gif)
+   ![](https://github.com/tsangkevin99/tsangkevin99.github.io/blob/main/Gifs/gitpages.gif?raw=true)
    - In your repository, go to `Settings` located at the top of the page in the center.
    - Next, navigate to the left hand side and click on the `Pages` section.
    - Under Build and deployment scroll down to Branch and choose the `main` branch.
@@ -65,9 +65,9 @@ Follow these straightforward steps to host your resume on GitHub Pages:
 
 7. **Open Your Hosted Resume:**
    - After a few minutes, your resume will be accessible at `https://yourusername.github.io`.
-   - If you have done everything correctly, it should look similar to this!
-   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpmNzVoN3NiYWU4czFzOWthdWRqemR2bGE3Yzk1eHoxZTc2NDB4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uUQzZL22ZceOl8xmWO/giphy.gif)  
-   *Congratulations! You successfully hosted your own resume on GitHub Pages using Markdown and Jekyll.*
+   - If you have done everything correctly, it should look similar to this!  
+![](https://github.com/tsangkevin99/tsangkevin99.github.io/blob/main/Gifs/demo.gif?raw=true)  
+*Congratulations! You successfully hosted your own resume on GitHub Pages using Markdown and Jekyll.*
 - *This step relates to Etter's principle of making documentation easily available to users*
 
 ## More Resources
