@@ -60,7 +60,8 @@ Follow these straightforward steps to host your resume on GitHub Pages:
    - Format the `README.md` file in markdown and provide a summary about yourself and your resume
    - To do this, navigate to your repository page, there should be a README underneath your files such as `README.md`, `_config.yml` and `index.md`.
    - Click on the pencil icon at the top right to edit your `README.md` file
-   - Once you are done making changes, click on the top right `Commit changes` button that is green
+   - Once you are done making changes, click on the top right `Commit changes` button that is green  
+- *This step relates to Etter's concept on making documentation easily available and accessible to users*
 
 7. **Open Your Hosted Resume:**
    - After a few minutes, your resume will be accessible at `https://yourusername.github.io`.
