@@ -1,7 +1,13 @@
 # Hosting Your Resume on GitHub Pages: The Algorithm
 
 ## Purpose
-This is a step-by-step guide on how to put your resume on GitHub Pages. You'll use Markdown and Jekyll to style and format your resume, then you will create a repository and host it on GitHub Pages.
+This is a step-by-step guide on how to put your resume on GitHub Pages. You'll use Markdown and Jekyll to style and format your resume, then you will create a repository and host it on GitHub Pages.  
+
+This README will:  
+- Describe the practical steps on how to host and format your resume onto GitHub Pages
+- Relate the practical steps described to the general principles of current Technical Writing, as explained in Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+
 ## Prerequisites
 - Have your resume ready, formatted in Markdown.
    - If Markdown is new to you, check out this [Markdown Tutorial](https://www.markdowntutorial.com/) for a quick introduction.
